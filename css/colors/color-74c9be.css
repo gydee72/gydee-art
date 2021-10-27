@@ -26,8 +26,10 @@ a {
   color: #74c9be;
 }
 
-.btn-theme {
-  background-color: #74c9be;
+  
+  .btn-theme {
+    background-color: #d13a51;
+
 }
 
 .tabbable .nav-stacked>li:active, li:focus, li.active h4 {
