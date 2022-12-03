@@ -21,6 +21,7 @@ body {
 .pal {
 	position:absolute;
 	float:left;
+	top: 20px;
 	
 }
 
