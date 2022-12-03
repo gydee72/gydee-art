@@ -18,12 +18,7 @@ body {
     -webkit-overflow-scrolling: touch;
 
 }
-.pal {
-	position:absolute;
-	float:left;
-	top: 20px;
-	
-}
+
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
